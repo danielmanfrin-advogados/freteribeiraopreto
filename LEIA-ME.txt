@@ -1,0 +1,33 @@
+DOMINIO_BASE=https://freteribeiraopreto.vercel.app
+Ao usar domínio próprio, atualize a base nos canonical e metadados das páginas HTML, em sitemap.xml, robots.txt e llms.txt.
+
+FRETES, CARRETOS E MUDANÇAS EM RIBEIRÃO PRETO
+Site estático em HTML, CSS e JavaScript puros. Não requer framework nem dependências. A pasta raiz é o conteúdo do repositório.
+
+TROCAR TELEFONE E WHATSAPP
+Abra config.js. Altere whatsapp e telefone para 55 + DDD + número, apenas dígitos, sem espaços, parênteses ou hífen. O tracker.js atualiza todos os links no carregamento. Altere também a mensagem padrão se desejar. Os números atuais são provisórios.
+
+PUBLICAR NA VERCEL
+Importe o repositório no GitHub e escolha Framework Preset: Other. O projeto inclui package.json sem dependências, build.js, e vercel.json. O Build Command deve ser npm run build e o Output Directory dist. Não é necessário instalar bibliotecas. Não há package-lock.json.
+
+ATUALIZAR O REGISTRO NA PLANILHA
+1. Abra a planilha Google e escolha Extensões > Apps Script.
+2. Apague o conteúdo do editor e cole apps-script/Code.gs.
+3. Execute setup() uma vez para criar ou ajustar os cabeçalhos e a aba Resumo. Se já havia linhas antigas desalinhadas, execute migrarLinhasAntigas() uma vez.
+4. Escolha Implantar > Gerenciar implantações > editar a implantação existente > Nova versão > Implantar. Mantenha o acesso como Qualquer pessoa. Editar a implantação existente conserva a URL /exec já configurada em config.js.
+5. Para um relatório por site: na planilha use Inserir > Tabela dinâmica; escolha Site em Linhas e Botão em Valores, resumido por Contagem. Neste Apps Script, Botão é o campo que identifica a ação, como WhatsApp ou ligar.
+
+GOOGLE SEARCH CONSOLE
+Cadastre a propriedade do domínio publicado no Google Search Console, conclua a verificação solicitada pelo Google e envie https://freteribeiraopreto.vercel.app/sitemap.xml na seção Sitemaps. O sitemap contém as páginas públicas do site. A indexação não é imediata nem garantida.
+
+GOOGLE MEU NEGÓCIO
+Recomenda-se criar Perfil da Empresa no Google somente quando houver um prestador real com endereço elegível e confirmado. Este portal não tem endereço próprio; não use endereço fictício.
+
+IMAGENS
+Cinco fotos realistas ilustrativas estão incluídas localmente em img/: hero.jpg (1600x900), sobre.jpg e uma foto para cada serviço (1000x750). Cada JPG foi compactado para menos de 150 KB, então o site mantém as imagens também quando publicado na Vercel. Quando o prestador enviar fotografias reais, substitua os arquivos mantendo os mesmos nomes e dimensões. Elas são ilustrativas e não retratam o prestador, sua equipe ou um veículo real. Preserve nomes, dimensões, alt neutro e compressão ao trocar os arquivos.
+
+MENSURAÇÃO E PRIVACIDADE
+Os botões registram dados técnicos do clique no endpoint indicado em config.js. O site não solicita nome, e-mail ou CPF e não instala cookies de publicidade. Leia politica-de-privacidade/.
+
+CONTEÚDO
+Confira valores, datas, disponibilidade, itens incluídos e forma de pagamento diretamente com o prestador. O portal não presta o serviço diretamente.

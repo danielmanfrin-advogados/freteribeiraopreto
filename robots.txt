@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://freteribeiraopreto.vercel.app/sitemap.xml

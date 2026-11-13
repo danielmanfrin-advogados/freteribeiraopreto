@@ -1,0 +1,37 @@
+# Fretes e Mudanças em Ribeirão Preto
+
+Portal de contato para consultar prestadores de fretes, carretos e mudanças em Ribeirão Preto, SP. Valores, prazos e condições são informados pelo prestador no atendimento.
+
+## Serviços
+- [Carreto de móveis e eletrodomésticos](https://freteribeiraopreto.vercel.app/servicos/carreto-de-moveis/): Transporte de móveis, eletrodomésticos e peças maiores entre endereços. Informe as dimensões aproximadas, os pontos de retirada e entrega e as condições de acesso para o prestador avaliar o veículo e a forma de transporte.
+- [Frete de pequenos volumes](https://freteribeiraopreto.vercel.app/servicos/frete-de-pequenos-volumes/): Transporte de caixas, objetos e cargas pequenas, conforme o volume e o percurso. Descreva a quantidade, o tamanho aproximado e os endereços para o prestador verificar as condições do atendimento.
+- [Mudança residencial](https://freteribeiraopreto.vercel.app/servicos/mudanca-residencial/): Transporte de móveis, caixas e pertences entre residências. Informe a origem, o destino, a data desejada, o volume e se precisa combinar embalagem, desmontagem ou ajuda para carregar.
+
+## Bairros
+- [Centro](https://freteribeiraopreto.vercel.app/bairros/centro/)
+- [Jardim Botânico](https://freteribeiraopreto.vercel.app/bairros/jardim-botanico/)
+- [Nova Aliança](https://freteribeiraopreto.vercel.app/bairros/nova-alianca/)
+- [Vila Tibério](https://freteribeiraopreto.vercel.app/bairros/vila-tiberio/)
+- [Bonfim Paulista](https://freteribeiraopreto.vercel.app/bairros/bonfim-paulista/)
+- [Campos Elíseos](https://freteribeiraopreto.vercel.app/bairros/campos-eliseos/)
+
+## Páginas institucionais
+- [Sobre](https://freteribeiraopreto.vercel.app/sobre/)
+- [Perguntas frequentes](https://freteribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de privacidade](https://freteribeiraopreto.vercel.app/politica-de-privacidade/)
+
+## Perguntas frequentes
+### Quais informações devo passar para pedir um orçamento de frete?
+Informe os bairros ou endereços de retirada e entrega, a data desejada, os itens, o volume aproximado e se haverá necessidade de embalagem, desmontagem ou ajuda para carregar. O prestador confirma o que está disponível e quais dados adicionais são necessários.
+
+### Carreto e mudança são o mesmo serviço?
+Carreto costuma atender o transporte de alguns itens ou volumes menores. Uma mudança envolve mais pertences e pode exigir planejamento de carga, acesso e embalagem. Descreva o que será levado para o prestador indicar o formato adequado.
+
+### O prestador ajuda a embalar ou carregar os itens?
+A disponibilidade de embalagem, desmontagem e ajuda para carregar varia conforme o prestador e o serviço. Informe essas necessidades antes de combinar, inclusive se houver itens frágeis ou pesados.
+
+### É possível transportar itens para outra cidade?
+A possibilidade depende do percurso e da disponibilidade do prestador. Informe a cidade de origem e a de destino para confirmar se o atendimento pode ser feito e quais condições se aplicam.
+
+### Como peço o orçamento?
+Clique em WhatsApp e informe os bairros ou endereços de origem e destino, a data desejada, os itens e o volume aproximado. Pergunte também sobre acesso, carregamento e forma de pagamento. O prestador informa valores e condições no atendimento.
